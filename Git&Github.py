@@ -6,7 +6,9 @@
 #artık rengi yeşile döndü
 #git add . ile tüm working spaceler eklenir
 #kaydetmek için git commit -m "mesajı yaz / bilgisayarın hafızasına kaydoluyor artık böylece
-
+#şu an github ile bir bağlantımız yok git'teyiz hala
+#git status ile hangi değişiklikleri yaptık bunu gösterir
+#
 
 
 
