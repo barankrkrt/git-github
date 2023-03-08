@@ -6,6 +6,7 @@
 #artık rengi yeşile döndü
 #git add . ile tüm working spaceler eklenir
 #kaydetmek için git commit -m "mesajı yaz / bilgisayarın hafızasına kaydoluyor artık böylece
+
 #git rm direkt siler work space'i böylece takip bırakılır
 
 #github'tan açtığımız repository'i bağlaması adına git remote add origin dedik
@@ -19,6 +20,11 @@
 
 
 
+
+
+#şu an github ile bir bağlantımız yok git'teyiz hala
+#git status ile hangi değişiklikleri yaptık bunu gösterir
+#
 
 
 
